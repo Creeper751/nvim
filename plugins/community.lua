@@ -1,0 +1,15 @@
+return {
+    "AstroNvim/astrocommunity",
+    { import = "astrocommunity.pack.python" },
+    { import = "astrocommunity.utility.neodim" },
+    { import = "astrocommunity.pack.lua" },
+    { import = "astrocommunity.pack.json" },
+    { import = "astrocommunity.pack.go" },
+    { import = "astrocommunity.pack.java" },
+    { import = "astrocommunity.pack.bash" },
+    { import = "astrocommunity.pack.rust" },
+    { import = "astrocommunity.pack.toml" },
+    { import = "astrocommunity.markdown-and-latex.glow-nvim" },
+    { import = "astrocommunity.scrolling.cinnamon-nvim" },
+    { import = "astrocommunity.scrolling.mini-animate" },
+}
