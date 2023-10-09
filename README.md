@@ -1,8 +1,8 @@
 # AstroNvim User Configuration
 
-My personal user config for AstroVim
-Shoutout to @mehalter for most of my config! :thumbsup:
-Another huge shoutout to @astronvim for the framework, bootstrap, etc. :thumbsup:
+My personal user config for AstroVim 
+Shoutout to @mehalter for most of my config! :thumbsup: 
+Another huge shoutout to @astronvim for the framework, bootstrap, etc. :thumbsup: 
 
 ## Installation
 
